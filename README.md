@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/taha-banner.svg" alt="Muhammad Taha Nasir Header Banner" width="100%" />
+<img src="taha-banner.svg" alt="Muhammad Taha Nasir Header Banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+production+AI+systems+that+understand%2C+reason%2C+and+act.;LLMs+%7C+Hybrid+RAG+%7C+Agentic+DAGs+%7C+Real-Time+Voice+AI;From+voice+to+vector%2C+from+data+to+decisions.;Build+systems%2C+not+just+demos." />
 
